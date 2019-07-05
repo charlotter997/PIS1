@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace PIS_1_1
 {
-	class Program
+	class NovaKlasa
 	{
-		static void Main(string[] args)
-		{
-			Console.WriteLine("Hello World!");
-            Console.WriteLine("Sta ima?");
-		}
 	}
 }
